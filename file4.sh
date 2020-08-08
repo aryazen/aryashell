@@ -1,4 +1,5 @@
 #!bin/bash
+##simple shell script using while loop
 a=1
 while [ $a -lt 11 ]
 do
